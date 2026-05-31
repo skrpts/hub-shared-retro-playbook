@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "055f97e4-7182-4c29-95c7-081fa84df884"
+name: "retro-playbook"
+display_name: "Sprint Ceremony Playbook"
+description: "Guide for running effective sprint ceremonies"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-retro-playbook"
+category: "shared"
+tags:
+  - "shared"
+  - "document"
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 1
+  assets: 0
+  total: 1
