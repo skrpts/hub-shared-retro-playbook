@@ -3,7 +3,7 @@ id: "ba60ae69-fb33-4d91-8079-b30be0e6475e"
 name: "retro-playbook"
 display_name: "Sprint Ceremony Playbook"
 description: "Guide for running effective sprint ceremonies"
-version: "1.0.2"
+version: "1.0.3"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -25,3 +25,17 @@ contents:
   documents: 1
   assets: 0
   total: 1
+
+security:
+  status: "pass"
+  scanned_at: "2026-07-16T14:47:18.353Z"
+  scanner_version: "3.3.0"
+  syntactic: "pass"
+  structural: "pass"
+  detected:
+    services: []
+    permissions: []
+    data_handling: []
+  undeclared: []
+  warnings: []
+  report_url: "https://hub.skrptiq.ai/skrpts/retro-playbook/security"

@@ -10,7 +10,7 @@ connections: []
 ## Sprint Planning
 
 ### Preparation
-- Product owner has a refined and prioritised backlog
+- Product owner has a refined and prioritized backlog
 - Team velocity from the last 3 sprints is available
 - All team members have updated their availability
 
